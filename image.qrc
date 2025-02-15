@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>bg.png</file>
+        <file>signup.png</file>
+        <file>sec.png</file>
+    </qresource>
+</RCC>
